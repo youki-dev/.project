@@ -25,7 +25,7 @@ repositories:
 
 website: "https://youki-dev.github.io/youki/"
 
-artwork: "https://landscape.cncf.io/logos/youki.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/youki"
 
 # TODO: Add ADOPTERS.md if your project tracks adopters
 # adopters:
